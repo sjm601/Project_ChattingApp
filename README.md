@@ -1,4 +1,5 @@
-# Project_ChattingApp_Java
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&text=Project_ChattingApp&fontAlign=60&fontAlignY=50&color=gradient)
+
 
 ## 개요
 * 채팅 애플리케이션(Chatting Application)
